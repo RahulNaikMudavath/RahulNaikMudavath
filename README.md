@@ -53,7 +53,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🎓 Undergraduate Student at **Osmania University / NIT Hamirpur**
+🎓 Computer Science Undergraduate at **REVA University**
 
 💡 Passionate about building **production-ready software** and **AI-powered applications**
 
