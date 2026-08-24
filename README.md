@@ -50,6 +50,73 @@ $ python run_agent.py --task "Optimize portfolio layout"
 
 <br>
 
+## `~/` interactive console
+
+<details>
+<summary><b>🕹️ click to boot rahul-console v1.0.4</b></summary>
+
+<br>
+
+```console
+$ help
+Available arguments:
+  --bio         Brief background and philosophy
+  --stack-depth Core stack competency
+  --agent-task  Active agent query
+  --connect     Communication channels
+```
+
+<details>
+<summary><code>$ query --bio</code></summary>
+<br>
+<blockquote>
+"Curiosity-driven, code-implemented."
+I specialize in the intersection of Generative AI and full-stack systems—specifically RAG pipelines, agentic workflows, and real-time backend structures. Currently studying at NIT Hamirpur.
+</blockquote>
+</details>
+
+<details>
+<summary><code>$ query --stack-depth</code></summary>
+<br>
+<ul>
+  <li><b>AI/ML:</b> LangChain • FAISS • Gemini/OpenAI APIs • RAG Pipelines • Vector Search</li>
+  <li><b>Web Frameworks:</b> React • Next.js • FastAPI • Express • Node.js</li>
+  <li><b>Databases & Caching:</b> PostgreSQL • MongoDB • SQLite</li>
+  <li><b>Languages:</b> Python • C++ • JavaScript • TypeScript • HTML/CSS</li>
+  <li><b>Developer Tools:</b> Git • GitHub • VS Code • Docker • WSL • Postman</li>
+</ul>
+</details>
+
+<details>
+<summary><code>$ query --agent-task</code></summary>
+<br>
+
+```console
+[SYSTEM] Agent "RahulQueryBot" active.
+[QUERY]  Search query: "future objectives"
+[AGENT]  Searching database... 
+[AGENT]  Found 3 matches:
+         1. Secure a Software Engineering Internship (Priority: High)
+         2. Build industry-ready Agentic AI systems (Priority: Medium)
+         3. Practice 500+ DSA problems on Leetcode (Current progress: Active)
+[AGENT]  Task complete. Logging off.
+```
+</details>
+
+<details>
+<summary><code>$ query --connect</code></summary>
+<br>
+<ul>
+  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/rahul-naik-m">rahul-naik-m</a></li>
+  <li><b>Email:</b> <a href="mailto:rahulnaikmudavath47@gmail.com">rahulnaikmudavath47@gmail.com</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/RahulNaikMudavath">RahulNaikMudavath</a></li>
+</ul>
+</details>
+
+</details>
+
+<br>
+
 <div align="center">
 
 ## `~/` toolbox
