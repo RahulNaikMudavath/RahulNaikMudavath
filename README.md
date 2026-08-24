@@ -509,11 +509,11 @@ Competitive Programming  ███████████████░░░�
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RahulNaikMudavath/RahulNaikMudavath/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulNaikMudavath/RahulNaikMudavath/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulNaikMudavath/RahulNaikMudavath/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/RahulNaikMudavath/RahulNaikMudavath/output/snake.svg" alt="snake eating the contribution graph">
+</picture>
 
 > **Note:** This works after you configure the GitHub Action in your repository.
 
