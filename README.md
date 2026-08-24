@@ -38,6 +38,16 @@ and I solve problems for fun when neither of those is cooperating.
 - Learning **React + Machine Learning + Agentic AI**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 
+```console
+$ python run_agent.py --task "Optimize portfolio layout"
+[SYSTEM] Initializing Agent: "PortfolioOptimizer v2.4"
+[AGENT]  Analyzing user profile for Rahul Naik Mudavath...
+[AGENT]  Found 8 active repositories on GitHub.
+[AGENT]  Processing skills: React, Node.js, FastAPI, LangChain, PyTorch.
+[AGENT]  Generating dot-matrix portrait SVG (100x100 resolution)...
+[AGENT]  Status: Portfolio successfully optimized. Enjoy browsing! 🚀
+```
+
 <br>
 
 <div align="center">
@@ -118,9 +128,14 @@ and I solve problems for fun when neither of those is cooperating.
 
 <br>
 
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+<table>
+<tr>
+<td><img src="assets/metrics.languages.svg" height="165" alt="most used languages"></td>
+<td><img src="assets/metrics.habits.svg" height="165" alt="coding habits"></td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 <img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
