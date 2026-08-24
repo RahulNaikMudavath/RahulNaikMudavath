@@ -32,6 +32,8 @@ Building scalable software, intelligent AI applications, and solving real-world 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=RahulNaikMudavath&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="profile views"/>
+
 <br><br>
 
 <!-- 🖥️ Developer Terminal -->
