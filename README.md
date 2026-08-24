@@ -115,14 +115,14 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <img align="right" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
-| Language | Proficiency |
+| Language |Proficiency |
 |----------|------------|
-| 🐍 **Python** | ⭐⭐⭐⭐☆ |
-| 🟨 **JavaScript** | ⭐⭐⭐⭐☆ |
-| 🟦 **TypeScript** | ⭐⭐⭐⭐☆ |
 | 🟦 **C++** | ⭐⭐⭐⭐☆ |
-| 🟧 **SQL** | ⭐⭐⭐☆☆ |
-| 🔵 **C** | ⭐⭐⭐☆☆ |
+| 🟨 **JavaScript** | ⭐⭐⭐☆☆ |
+| 🔵 **C** | ⭐⭐⭐☆☆|
+| 🟧 **SQL** |⭐⭐⭐☆☆ |
+| 🟦 **Python** | ⭐⭐☆☆☆ |
+| 🟦 **C#** | ⭐⭐☆☆☆ |
 | 🟦 **Java** | ⭐⭐☆☆☆ |
 
 ---
@@ -133,7 +133,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,cs"/>
 
 </p>
 
