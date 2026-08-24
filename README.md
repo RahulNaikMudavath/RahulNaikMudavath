@@ -21,6 +21,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=RahulNaikMudavath&style=flat&color=39d353&label=profile+views" alt="profile views">
 
+<br><br>
+
+<b>💻 Developer Terminal</b>
+
+<br><br>
+
+<img src="assets/terminal.svg" width="600" alt="Developer Terminal">
+
+
 </div>
 
 ---
