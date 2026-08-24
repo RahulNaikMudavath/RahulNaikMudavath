@@ -1,5 +1,8 @@
 <div align="center">
   
+<img src="assets/portrait.svg" width="280" alt="Rahul Naik Mudavath, rendered as a dot matrix">
+
+<br><br>
 
 # Hi there 👋, I'm Rahul Naik Mudavath
 
