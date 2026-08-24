@@ -1,21 +1,37 @@
 {
-  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "_comment": "Featured projects, in README order. Descriptions are written specifically for Rahul's actual GitHub projects.",
   "projects": [
     {
-      "repo": "dossier",
-      "description": "An immersive design-engineering portfolio. Fluid scroll inertia, geometric morphing, and typography that bends toward your cursor."
+      "repo": "ai-research-assistant",
+      "description": "A full-stack AI research assistant that lets users upload PDFs, retrieve relevant information with FAISS vector search, and ask Gemini-powered questions grounded in their documents. Built with FastAPI, React, Sentence Transformers, FAISS, JWT authentication, and SQLite."
     },
     {
-      "repo": "Sage",
-      "description": "A local-first calendar that shapes your week around six productivity frameworks, with an assistant that plans according to the method you pick."
+      "repo": "ai-agent-workflow-builder",
+      "description": "A full-stack visual AI workflow builder for creating, executing, and monitoring multi-step agentic workflows with LLM calls, HTTP requests, conditional logic, database actions, notifications, scheduled triggers, and human approval gates."
     },
     {
-      "repo": "Socrates",
-      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+      "repo": "MERN-project",
+      "description": "GreenCart is a full-stack grocery delivery platform with product discovery, search, cart management, saved addresses, order history, secure authentication, Stripe payments, and a dedicated seller dashboard for inventory and order management."
     },
     {
-      "repo": "humanOS",
-      "description": "A gamified operating system for your life. Goals as interactive orbits, habit and mood tracking, and Gemini breaking objectives into daily tasks."
+      "repo": "portal",
+      "description": "A full-stack admin and client management portal with separate frontend and backend applications, designed to streamline business workflows through centralized administration, client management, and role-based operations."
+    },
+    {
+      "repo": "Dayflow---Human-Resource-Management-System-",
+      "description": "A modern HR management platform for employee workflows, attendance, leave requests, payroll, and AI-assisted HR operations, with role-based access control and offline-first functionality for resilient local operation."
+    },
+    {
+      "repo": "computer-vision-and-nlp-project",
+      "description": "DocuMind is a multi-user document intelligence platform combining OCR, structured document extraction, and RAG-based question answering to understand invoices, receipts, identity documents, resumes, and other business documents."
+    },
+    {
+      "repo": "Take-Home-Assignment-The-Untested-API",
+      "description": "A backend engineering assignment focused on understanding an unfamiliar Express API, identifying bugs, implementing task assignment functionality, and building automated tests with Jest for reliable REST API behavior."
+    },
+    {
+      "repo": "weather-data-etl",
+      "description": "A Python data engineering project that extracts weather data, transforms it into structured datasets, and processes the results through an ETL workflow for analysis and downstream use."
     }
   ]
 }

@@ -4,25 +4,22 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
+<img src="assets/portrait.svg" width="300" alt="Rahul Naik Mudavath, rendered as a dot matrix">
 
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/gargibhardwaj24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+<a href="https://github.com/RahulNaikMudavath">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Rahul+Naik+Mudavath;AI+Agent+%26+Full+Stack+Developer;Machine+Learning+Engineer;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/gargibhardwaj24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gargibhardwaj2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://linkedin.com/in/rahul-naik-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:rahulnaikmudavath47@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=RahulNaikMudavath&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -34,12 +31,11 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
+Hi, I'm **Rahul Naik Mudavath**. I build things that sit somewhere between machine learning and the web,
 and I solve problems for fun when neither of those is cooperating.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
+- Currently building **[ai-agent-workflow-builder](https://github.com/RahulNaikMudavath/ai-agent-workflow-builder)** and **[ai-research-assistant](https://github.com/RahulNaikMudavath/ai-research-assistant)**
+- Learning **React + Machine Learning + Agentic AI**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 
 <br>
@@ -98,9 +94,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/RahulNaikMudavath/RahulNaikMudavath/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulNaikMudavath/RahulNaikMudavath/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/RahulNaikMudavath/RahulNaikMudavath/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
@@ -141,40 +137,40 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/RahulNaikMudavath/ai-agent-workflow-builder">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ai-agent-workflow-builder-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-ai-agent-workflow-builder-light.svg">
+      <img src="assets/card-ai-agent-workflow-builder-dark.svg" width="420" alt="ai-agent-workflow-builder">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/RahulNaikMudavath/ai-research-assistant">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ai-research-assistant-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-ai-research-assistant-light.svg">
+      <img src="assets/card-ai-research-assistant-dark.svg" width="420" alt="ai-research-assistant">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/RahulNaikMudavath/MERN-project">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-MERN-project-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-MERN-project-light.svg">
+      <img src="assets/card-MERN-project-dark.svg" width="420" alt="MERN-project">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+  <a href="https://github.com/RahulNaikMudavath/portal">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-portal-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-portal-light.svg">
+      <img src="assets/card-portal-dark.svg" width="420" alt="portal">
     </picture>
   </a>
 </td>
@@ -185,10 +181,13 @@ and I solve problems for fun when neither of those is cooperating.
 
 | project | live | stack |
 |---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[ai-agent-workflow-builder](https://github.com/RahulNaikMudavath/ai-agent-workflow-builder)** | - | `React` `Node.js` `LLMs` `N8N` |
+| **[ai-research-assistant](https://github.com/RahulNaikMudavath/ai-research-assistant)** | - | `FastAPI` `React` `FAISS` `Gemini` |
+| **[MERN-project](https://github.com/RahulNaikMudavath/MERN-project)** | - | `MongoDB` `Express` `React` `Node` |
+| **[portal](https://github.com/RahulNaikMudavath/portal)** | - | `React` `Node.js` `Express` |
+| **[Dayflow-HRMS](https://github.com/RahulNaikMudavath/Dayflow---Human-Resource-Management-System-)** | - | `React` `TypeScript` `Node.js` |
+| **[DocuMind](https://github.com/RahulNaikMudavath/computer-vision-and-nlp-project)** | - | `Python` `PyTorch` `NLP` `OCR` |
+| **[weather-data-etl](https://github.com/RahulNaikMudavath/weather-data-etl)** | - | `Python` `ETL` `APIs` |
 
 </sub>
 
