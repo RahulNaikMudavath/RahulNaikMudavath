@@ -417,12 +417,12 @@ React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 |----------|------|
 | 🐙 GitHub | https://github.com/RahulNaikMudavath |
 | 💼 LinkedIn | https://www.linkedin.com/in/rahul-naik-m/ |
-| 💻 LeetCode | https://leetcode.com/u/RahulNaikMudavath/ |
+| 💻 LeetCode | https://leetcode.com/u/rahulnaikm/ |
 
 <br><br>
 
-<a href="https://leetcode.com/u/RahulNaikMudavath/">
-<img src="https://leetcard.jacobc.54.ru/?username=RahulNaikMudavath&theme=dark" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/rahulnaikm/">
+<img src="https://leetcard.jacobc.54.ru/?username=rahulnaikm&theme=dark" alt="LeetCode Stats"/>
 </a>
 
 </div>
