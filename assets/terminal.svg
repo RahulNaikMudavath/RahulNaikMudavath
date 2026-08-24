@@ -63,13 +63,13 @@
   <circle class="btn-green" cx="65" cy="21" r="6" />
   
   <!-- Window Header Title -->
-  <text class="title" x="380" y="26" class="terminal">rahulnaikmudavath@github: ~</text>
+  <text class="title terminal" x="380" y="26">rahulnaikmudavath@github: ~</text>
   
   <!-- Terminal Content Group -->
   <g class="terminal" transform="translate(35, 85)">
     
     <!-- Row 1: Command Prompt and Command -->
-    <text class="prompt" x="0" y="0">rahulnaikmudavath@github:~$&nbsp;<tspan class="cmd">./build_future.sh</tspan></text>
+    <text class="prompt" x="0" y="0">rahulnaikmudavath@github:~$ <tspan class="cmd">./build_future.sh</tspan></text>
     
     <!-- Typing Overlay Box: covers the command and shrinks to reveal it -->
     <rect x="238" y="-16" width="160" height="22" fill="#0d1117">
