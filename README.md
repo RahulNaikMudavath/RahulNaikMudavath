@@ -78,6 +78,39 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 ---
 
+# 🎮 Coder RPG Status
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 👤 Character Info
+
+- **Class**: `AI Agent Architect / Full-Stack Mage`
+- **Level**: `22`
+- **Guild**: `REVA University`
+- **Status**: `Active (Engineering intelligent workflows...)`
+- **XP**: `[██████████████████░░] 90%`
+
+</td>
+<td width="50%">
+
+### 📊 Base Stats
+
+- **🔋 HP (Energy)**: `95/100` (Coffee-fueled)
+- **🔮 MP (Creativity)**: `98/100` (LLM-optimized)
+- **⚔️ STR (Execution)**: `88` (C++ &amp; DSA power)
+- **🧠 INT (Logic)**: `92` (Debugging &amp; RAG pipelines)
+- **⚡ AGI (Velocity)**: `82` (Agile workflow speed)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 # 💻 Programming Proficiency
 
 <img align="right" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
